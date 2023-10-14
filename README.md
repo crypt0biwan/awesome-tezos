@@ -28,6 +28,7 @@ This repo was created to have a nice overview of tezos stuff out there. Lists ar
 * tender - https://discord.gg/X3uzD5Hwya
 
 ## Tech
+* anaver.se (tools) - https://observablehq.com/collection/@anaglyph-ic/tezos-tools
 * FxCollectors (stats / sweep tool) - https://fxcollectors.xyz/
 * fxhash RPC - https://www.fxhash.xyz/doc/collect/rpc
 * fx(party) (collection stats + valuation) - https://fxparty.live/
@@ -35,6 +36,7 @@ This repo was created to have a nice overview of tezos stuff out there. Lists ar
 * Infinite fxhash exploration - https://observablehq.com/@anaglyph-ic/infinite-exploration-of-any-fxhash-gentk
 * NFTBiker (Multitool, partially token gated) - https://nftbiker.xyz/
 * Tezos Domains (get your own .tez handle) - https://tezos.domains/
+* Tezos Ecosystem projects - https://tezos.com/ecosystem
 * TezTok APIs - https://www.teztok.com/docs
 * TezTok NFT LiveFeed - https://live.teztok.com/
 * TzFlow (mempool watched) - https://tzflow.com/
